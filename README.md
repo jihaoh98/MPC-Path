@@ -32,6 +32,6 @@ So we can get the $qx$ in code equal to $-Qx * X_{ref}$
 
 [Set the reference point](https://github.com/jihaoh98/MPC-Path/blob/main/mpc_car/include/mpc_car/mpc_car.hpp#:~:text=%7D-,//%20TODO%3A%20set%20qx,-Eigen%3A%3AVector2d%20xy)
 
-[Compensate delay](https://github.com/jihaoh98/MPC-Path/blob/main/mpc_car/include/mpc_car/mpc_car.hpp#:~:text=VectorX%20compensateDelay(const%20VectorX%26%20x0))
-
+[Compensate delay](https://github.com/jihaoh98/MPC-Path/blob/main/mpc_car/include/mpc_car/mpc_car.hpp#:~:text=VectorX%20compensateDelay(const%20VectorX%26%20x0)) Use the differential equation to calculate the state.
+ 
 
